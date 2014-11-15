@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">文本阅读器</string>
+    <string name="title_activity_main">文本阅读器</string>
+    <string name="hello_world">hello world!</string>
+    <string name="action_about">关于</string>
+    <string name="option_title">选项</string>
+</resources>
